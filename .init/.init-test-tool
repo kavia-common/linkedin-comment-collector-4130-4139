@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/linkedin-comment-collector-4130-4139/backend"
+}
